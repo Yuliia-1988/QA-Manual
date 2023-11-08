@@ -1,1 +1,1 @@
-# QA-Manual
+"Hello world!"
