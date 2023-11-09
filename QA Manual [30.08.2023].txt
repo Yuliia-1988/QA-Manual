@@ -1,1 +1,2 @@
 successful completion of the course
+Hello world!
